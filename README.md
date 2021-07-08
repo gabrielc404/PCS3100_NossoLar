@@ -9,4 +9,4 @@ Repositorio pensado para registrar o projeto da materia de PCS3100 do grupo 14, 
 
 3 - Para se utilizar o navegador como reproduto multimidea recomendo consultar o repositorio: https://github.com/thomasloven/hass-browser_mod
 
-4 - Arquivos .fz* são rferente ao program fritzing para criação ode circuitos.
+4 - Arquivos .fz* são referente ao programa fritzing para criação de circuitos.
