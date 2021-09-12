@@ -7,6 +7,6 @@ Repositorio pensado para registrar o projeto da materia de PCS3100 do grupo 14, 
 
 2 - depois de configurado e instalado é possivel utilizar o arquivo SystemBk, que sobe para o sistema uma cópia de todas as funcionalidades criadas. 
 
-3 - Para se utilizar o navegador como reprodutor multimidea recomendo consultar o repositorio: https://github.com/thomasloven/hass-browser_mod
+3 - Para se utilizar o navegador como reprodutor multimídia recomendo consultar o repositorio: https://github.com/thomasloven/hass-browser_mod
 
 4 - Arquivos .fz* são referente ao programa fritzing para criação de circuitos.
